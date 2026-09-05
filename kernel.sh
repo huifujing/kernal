@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash$
 
 # 文件名建议：/root/kernal.sh
 
